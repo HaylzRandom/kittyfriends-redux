@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kittyfriends-redux/static/css/main.056f044e.chunk.css",
+    "main.js": "/kittyfriends-redux/static/js/main.3e468606.chunk.js",
+    "main.js.map": "/kittyfriends-redux/static/js/main.3e468606.chunk.js.map",
+    "runtime-main.js": "/kittyfriends-redux/static/js/runtime-main.3ec3f469.js",
+    "runtime-main.js.map": "/kittyfriends-redux/static/js/runtime-main.3ec3f469.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/kittyfriends-redux/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.bcea1f54.chunk.js": "/kittyfriends-redux/static/js/2.bcea1f54.chunk.js",
+    "static/js/2.bcea1f54.chunk.js.map": "/kittyfriends-redux/static/js/2.bcea1f54.chunk.js.map",
+    "index.html": "/kittyfriends-redux/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/kittyfriends-redux/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.056f044e.chunk.css.map": "/kittyfriends-redux/static/css/main.056f044e.chunk.css.map",
+    "static/js/2.bcea1f54.chunk.js.LICENSE.txt": "/kittyfriends-redux/static/js/2.bcea1f54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ec3f469.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.bcea1f54.chunk.js",
+    "static/css/main.056f044e.chunk.css",
+    "static/js/main.3e468606.chunk.js"
+  ]
+}
