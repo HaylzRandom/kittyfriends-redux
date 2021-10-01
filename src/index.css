@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: linear-gradient(
+		to right,
+		rgb(135, 57, 198),
+		rgb(172, 9, 185),
+		rgb(113, 56, 131)
+	); /* w3c */
+	overflow: hidden;
+}
